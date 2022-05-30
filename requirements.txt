@@ -1,0 +1,4 @@
+gym
+gym[box2d]
+gym[atari]
+gym[accept-rom-license]
